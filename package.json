@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "cursonode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romulovp/nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Rômulo Vasconcelos Pereira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romulovp/nodejs/issues"
+  },
+  "homepage": "https://github.com/romulovp/nodejs#readme",
+  "description": ""
+}
